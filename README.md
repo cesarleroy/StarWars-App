@@ -15,6 +15,10 @@ Aplicación Android desarrollada con **Jetpack Compose** para la Unidad 5 del cu
 * [CharacterRepository.kt](app/src/main/java/com/example/starwarsapp/data/repository/CharacterRepository.kt) — Patrón Repositorio con cache en memoria
 * [SwapiService.kt](app/src/main/java/com/example/starwarsapp/data/api/SwapiService.kt) — Interfaz Retrofit con los endpoints de SWAPI
 
+## 📄 Aplicación
+La aplicación completa (ya compilada) se encuentra en el siguiente archivo:
+* [APK](./assets/star-wars-app.apk)
+
 ## 📸 Vista Previa
 > ![Preview](./assets/StarWarsApp_Preview.gif)
 
