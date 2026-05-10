@@ -1,5 +1,5 @@
 # Buscador de Personajes de Star Wars ⭐
-Aplicación Android desarrollada con **Jetpack Compose** para la Unidad 5 del curso de Programación de Dispositivos Móviles.
+Aplicación Android desarrollada con **Jetpack Compose** para la Unidad 5 del curso de **_Android Basics with Compose_**.
 
 ## Características
 * **Retrofit + OkHttp**: Petición a `https://swapi.info/api/people/` para obtener los 82 personajes del universo Star Wars, con interceptor de logging para depuración.
